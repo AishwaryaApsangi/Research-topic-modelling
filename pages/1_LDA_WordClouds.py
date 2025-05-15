@@ -50,6 +50,11 @@ def load_docs():
 # === Preprocessing ===
 @st.cache_data
 def preprocess(docs):
+    # Ensure NLTK resources are available even in Streamlit Cloud
+    nltk.download("punkt", quiet=True)
+    nltk.download("stopwords", quiet=True)
+    nltk.download("wordnet", quiet=True)
+    
     token_lists = []
     for doc in docs:
         text = re.sub(r"\s+", " ", doc.lower())
@@ -57,6 +62,7 @@ def preprocess(docs):
         tokens = [lemmatizer.lemmatize(w) for w in tokens if w.isalpha() and w not in stop_words]
         token_lists.append(tokens)
     return token_lists
+
 
 # === Load + preprocess ===
 docs, filenames = load_docs()
