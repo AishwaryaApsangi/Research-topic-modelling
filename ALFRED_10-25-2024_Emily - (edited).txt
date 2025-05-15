@@ -1,0 +1,271 @@
+WEBVTT
+
+1
+00:00:00.480 --> 00:00:09.220
+Emily Corwin: That would be good. Okay, we've got some new technology with this AI companion that we haven't delved into here yet. So alright. Well again. Thank you so much for taking the time to meet with me today. Can you please confirm on the record that you're speaking to me voluntarily, and then providing consent to be recorded and have your responses included in this research.
+
+3
+00:00:21.400 --> 00:00:23.150
+Alfred: I am, and I do.
+
+4
+00:00:23.630 --> 00:00:31.250
+Emily Corwin: Okay, thank you. And as a reminder, you can in the interview at any time, and you're not required to answer any question that you do not wish to so to kick us off. Can you just talk a little bit about yourself who you are, what you do, and why you volunteered to speak to us about your experiences with sponsorship.
+
+6
+00:00:42.522 --> 00:00:48.554
+Alfred: Sure. So my name's Alfred. I have been, let's see here, how can I explain this? So I am deep into my career. I am over 22 years removed from my undergraduate. I spent the first 10 years of my career in startups, working in sales and marketing, and then the next 12 years working for a small consultancy doing product management. Today, I work for [a large consulting firm] in one of their incubators, helping them bring new software projects to life. When I'm not doing that, I have a family, wife, two kids, and I am very involved in the local community. I'm involved in several nonprofits. I'm involved as a volunteer in my own undergrad Alumni Association. So I tend to stay very, very busy. But yeah, that's a little bit about me and my background.
+
+
+11
+00:01:41.300 --> 00:01:42.829
+Emily Corwin: Okay, great. Thank you. Alfred, this is an aside. But are you the Waltham trail runners.
+
+13
+00:01:47.700 --> 00:01:48.440
+Alfred: I am.
+
+14
+00:01:48.960 --> 00:01:52.130
+Emily Corwin: Okay, I was like, why do you seem so familiar?
+
+15
+00:01:52.130 --> 00:01:54.130
+Alfred: I was saying the same exact thing, but I.
+
+16
+00:01:54.604 --> 00:01:59.819
+Emily Corwin: Yes, alright. Got it. Thank you. So sorry about that. I.
+
+17
+00:01:59.820 --> 00:02:07.979
+Alfred: You know what it is is that we're not wearing tech t-shirts, and we don't look all like sweaty, and we're not holding beers in our hands right now. But yes, that's like a.
+
+18
+00:02:07.980 --> 00:02:22.850
+Emily Corwin: That is all true. Yes, so I I do still have my hair up from my workout. So maybe it was a little bit more obvious on my end. But okay, well, so great to see you over zoom sorry. But you know, yeah. Oh, I'm so embarrassed alright, anyway. So.
+
+19
+00:02:22.850 --> 00:02:23.660
+Alfred: Small world.
+
+20
+00:02:24.780 --> 00:02:34.839
+Emily Corwin: So getting back to this, then? And you tell us a little bit about how you would define sponsorship just based on what you know now. And coming into the interview.
+
+22
+00:02:37.040 --> 00:02:46.530
+Alfred: Yeah, I mean, when I think about sponsorship, I think it's about, it's a little bit different than mentorship in that sponsorship feels like more of a commitment to keep an eye on somebody, either professionally or personally, or both. It's not just career-based, and there are a lot of life experiences that kind of go along with it. But when I hear the word sponsor, I always think of it as like, I am intentionally making a longer-term connection when I'm doing that.
+
+24
+00:03:10.790 --> 00:03:22.510
+Emily Corwin: Alright, got it. Thank you. And so you've already kind of delved into this. Sorry, my dog is like right here. You cannot really see. Maybe we'll see like a black nose pop up! Go on, Buddy. So you already talked a little bit about how you see this being different from mentorship, and we see it as being different as well. So it is maybe related. But the way that we're describing sponsorship for the purposes of this study is concrete actions taken by one individual aimed at or important to advancing another individual's career. That person could be inside or outside of your organization. They could be someone who is senior to you, someone who is subordinate to you, or they could be a peer. But the important thing is that the actions that they have taken were helpful for advancing your career. So that being said, can you take a moment to think about a time when you've experienced sponsorship from somebody, and talk about what that was like for you.
+
+
+29
+00:04:17.709 --> 00:04:29.109
+Alfred: Sure. I would say it was funny because they put it under the guise of a mentorship program. So this was kind of like a test run that we actually did at my undergrad with the alumni, where there were two phases to it. One was like, I'm not sure if you're familiar with CEO Forums, where you put a whole bunch of people that are in similar places in their careers, typically CEOs. So they bond and unload on their own personal and professional experiences in a safe space. We were testing out one aspect of that, but then also connecting with a peer or a senior who would have one-on-one interactions in that sort of safe space. I took advantage of both many years ago and was paired up with a leader in the HR space, who took it upon himself to meet with me once a month to talk about life, work, and challenges that I was having, with the idea that if you have somebody who is professional and has seen a lot of different worldly experiences, they can help direct you or at least provide you with a different lens to look through to drive you forward in your career.
+This gentleman was somebody who was, I forgot which company, maybe [a large organization 2], but he was pretty high up there. I'm a software guy, so he doesn't live in my universe. He's busy managing hundreds and hundreds of employees who are manufacturing and designing shoes, doing all those things. I'm busy working on startup software, software as a service—very, very different spaces. But he ended up being essentially a sponsor for me for about two years. We met regularly to figure out where I was going, navigating my career, which was interesting because it was during that 7-8 year mark into my career where I was trying to find my footing. Am I a junior person? Am I a manager? I have no idea what I am, you know. Sort of deal. So that was that was kind of interesting as part of it, too.
+
+39
+00:06:35.040 --> 00:06:47.919
+Emily Corwin: Okay, great. And so at this point in time, what type of organization were you working for? I know you're in software, was it? So? This person's outside of your organization? Then? Right? Okay. And this was kind of you said, 7, 8 years into your career.
+
+41
+00:06:54.420 --> 00:07:02.359
+Alfred: Yeah, I was working for a startup. It was a venture-backed startup actually out in Needham, and I was employee number one. So you know, there's the founders. And then there was me. And then, of course, you know, you start getting your funding and you start growing, and then, all of a sudden, you know, you were the only person there. And all of a sudden, now you've got all these bosses. You've got all these layers above you, and like that sort of thing. So it was a very unique sort of experience. While he was over, I think, [a large organization], and then he was at another company. I forgot the name of it. It's big in like the baby space like I forgot, it was like one of those like, you know, they do like carriers, and like maybe it was Greco, or like one of those sort of companies. But he was in bigger, you know, public-facing companies, you know, hundreds of millions of dollars in revenue, and we're sitting there like trying to raise 6 million dollars to actually get our product out to market. So very, very different dynamic.
+
+
+45
+00:07:50.860 --> 00:07:56.166
+Emily Corwin:  Yeah, I bet. And that's a really cool experience to be employee number one. I'm sure. So this person, then their relationship to you was that you met them through this sort of forum, the CEO Forum, right.
+ 
+
+47
+00:08:07.300 --> 00:08:13.499
+Alfred: Yep, and he was. He was a a an alumni of my university. So it was like alumni is also helping out other alumni.
+
+48
+00:08:14.010 --> 00:08:26.149
+Emily Corwin: Okay, Gotcha. And so, in terms of like that time, that point in time, this person had a higher position in their company than what you did in your company. Correct? Okay, making sure that I have all the kind of details for that here. And so were there any specific actions that you didn't already mention, or important to advancing your career.
+
+51
+00:08:45.510 --> 00:08:57.180
+Alfred: Terms of advancing my career? So one of my challenges, at least until recently, was I worked for very small flat organizations, so I was almost always reporting to a CEO or the CTO. Or somebody along those lines. So those mentorship opportunities were kind of sponsorship opportunities were few and far between, because they were small organizations where you're one layer up? So really, up until very recently, I would say that was like the biggest, you know, there were a couple of other ones, but they were probably less. They were more informal or casual. And maybe less explicit. You know that it's a sponsorship. So as an example, I started looking for a new job last year, and so I definitely leaned heavily on an alumni friend of mine who is like a CTO. And a major public company as well, and he would go out of his way to spend time, and like talk through things and everything else. But was it a sponsorship per se? Not really. He would not have thought of it that way. But the value.
+
+
+55
+00:09:54.840 --> 00:09:58.460
+Emily Corwin: Yeah, that sounds like it might be more aligned with mentorship. In that case.
+
+56
+00:09:58.460 --> 00:09:58.800
+Alfred: Yeah. Yeah. So, but for explicit sponsorship, that was that. That's the scenario, I would say, is the the clearest one.
+
+58
+00:10:06.920 --> 00:10:21.349
+Emily Corwin: Okay, got it. And so then, thinking more about the outcomes of that sponsorship, can you talk a little bit, either personally or professionally, about what some of the concrete outcomes were of your relationship with that person.
+
+59
+00:10:22.060 --> 00:10:26.770
+Alfred: Yeah, I mean, there's a few things one is. It definitely made me think a little bit more broadly about how I approach my interactions because he's coming from a very different perspective. So you know, I take a step back a little bit further. Now, when I think about things, it's a little bit more of an intangible sort of piece of feedback. I think at that time I was looking for answers, and he couldn't give me answers, right? And as an HR person he knows he really can't give me answers. So it was actually probably frustrating for me because I was like, Okay, I want to advance my career. But the only way to advance my career was probably to do something much more dramatic. And so I think he was always trying to give me like, Hey, take a look around, investigate these things, but like it, you know, I never! I would say I was probably too immature in my career to take that and then leverage it for true advancement. Did it help me kind of understand the universe a little bit better? Absolutely. And then the other concrete outcome is because somebody helped me, I naturally want to help other people. So you know, you put that in your pocket and you're like, Okay, when I have the opportunity down the road, then I would be more than happy to do that for other people.
+
+
+65
+00:11:35.040 --> 00:11:46.840
+Emily Corwin: Okay? Great. Yeah. There's some time at the end. I would like to ask you a similar question. Then about how maybe you've sponsored another person. So hopefully, we can get to that. So again, thinking of the person who sponsored you, do you have any thoughts? Obviously you were sort of in this formal setup of providing sponsorship or mentorship, and this person is an alumni of your university. But do you have any thoughts as to why this person may have decided to sponsor you. Anything about them in particular about you in particular.
+
+67
+00:12:11.550 --> 00:12:12.290
+Alfred: You know.
+
+68
+00:12:13.410 --> 00:12:29.160
+Alfred: You know, that's a good question. I mean, typically when you when you when it's part of the alumni network, you know, you're trying to help like raise all boats. So that's that's one thing. I think, at his time in his position, this tenure he also had some time to to give and and do those things. He was the, you know, the an expert in that area. Right? So it's always good to be able to use that when you have the time. Interestingly enough, ten years later, you know, he wanted to get back together and see how things were going. And then he was actually asking me for like, he's trying to use me as like a sales lead. So, for all I know, part of it was relationship building, so that, like, he could do something later on in his career as well. So you never can really tell, you know, and those things evolve over time. But I just found that very interesting, like, you know, ten years later, to be like, oh, yeah, let's have coffee, and it's like, wait, you're trying to sell me something that's weird.
+
+
+71
+00:13:08.420 --> 00:13:09.830
+Emily Corwin: Oh, okay.
+
+72
+00:13:09.830 --> 00:13:17.200
+Alfred: Because people's careers change over time. So he he was no longer in that organization, and he became a consultant. So now he's trying to sell his consulting to people who probably benefited from his experiences previously, which kind of makes sense, right? So there's a little bit of the, you know. Yes. Are you doing it out of the goodness of your heart? Of course. Can I put bullets on my resume to say I did it? Probably as well. And so that's a that's a really tricky sort of dance. But at the end of the day, if you're mentoring or sponsoring a whole bunch of people, you're probably going to put it on your resume, too.
+
+
+78
+00:13:48.330 --> 00:13:48.650
+Emily Corwin: Yeah.
+
+79
+00:13:48.650 --> 00:13:50.050
+Alfred: Time, so.
+
+80
+00:13:50.870 --> 00:14:05.590
+Emily Corwin: Yeah, that makes sense. No, that's a really interesting point, right? Like, how what does it mean to be truly doing something for the benefit of someone else. Right? It's kind of hard, because we all can kind of benefit from different things. So you still have a relationship with that person.
+
+81
+00:14:06.770 --> 00:14:08.889
+Alfred: I probably talk to him once every few years now. So yeah, nowhere near as tight like. I mean, I used to meet with this person monthly for a couple of years, maybe two, three years, and then all of a sudden, like, poof! But that's because his life changed. You know, my life changed. All those things sort of change, and then people kind of drift off.
+
+
+85
+00:14:25.790 --> 00:14:27.811
+Emily Corwin: Yeah, yep, that is how it goes. So do you have any sort of emotions or feelings that come up when thinking about the way that this person sponsored you or your relationship with them?
+
+
+87
+00:14:37.540 --> 00:15:00.020
+Alfred: Well, at the time it was like super appreciative, because I mean, we we didn't even use the term safe space back then. But you didn't. If you were part of a small organization like I was, everybody knew everything that was going on, so you had no outlet whatsoever to bang ideas up against people or get some sort of feedback outside of like, we're pushing forward, we're running out of money, we need to raise more money. All those other things. So for me, like it was like an outlet that, like my family couldn't provide, my friends couldn't provide, others couldn't provide. And I needed that like expertise like, if not for nothing. It was therapeutic to have somebody who I knew had a commitment that, like in my head, I could go, hey? I can ask about this in a week and a half. I could plan for it like I didn't have to stew, you know, for for so for me, like it was. Yeah, I would say, maybe not a motion. But like like I said it was. It was kind of therapeutic, and it was it was good to know that I was going to have a consistent outlet somewhere to be able to to address those things as opposed to, you know, having to keep it all internal. Does that make sense?
+
+
+92
+00:15:46.370 --> 00:15:48.779
+Emily Corwin: Yeah, no, thank you for that answer. So I'm gonna kind of switch gears a little bit here. We are interested in hearing how people's different identities may influence the way that they experience or understand sponsorship. So identities can be anything ranging from like social class back background, or race gender. It could also be things like where you're from geographically, your alumni background, that kind of thing. So, thinking through all the different identities that you have. Do you feel that they influenced your experience of sponsorship? Just sort of generally.
+
+96
+00:16:30.150 --> 00:16:43.370
+Alfred: Yeah, I mean, maybe not as much when I was being sponsored versus, you know, when I when I help others. So you know, I remember taking the the pre-survey, or something like that. When I signed up for this, and it was like, hey, how much do? What was your background before, like, what are you doing now? And like, you know, that's something I very much identify with is like, my family grew up very poor, you know, kind of I won't say broken home, but like, you know, divorced parents, all sorts of things. So like I came from a disadvantaged background. And now, like, I'm in a place where I have the exact opposite experience. Which is, which is nice, right? And I don't. I never want people to experience what I previously experienced, which drives me to help help other people. That's one piece of it. And then I have a very strong identity with the communities I'm part of. So, you know, I'm very locked into Waltham. I'm very locked into my Alma Mater. I want to. You know now that I'm part of the Bentley community, I want to help the Bentley community. You know I'm trying to be involved there. So like I, I take a lot of identity in the communities that embrace me, and then I embrace them back. So where some people will go and listen. I pay Bentley X number of dollars. I pay Clarkson X number of dollars. They got my money. I got my education. I'm out of here. I am very much the exact opposite, because I kind of recognize I get a lot out of it. And so I kind of for lack of a better term. I wrap myself in the identity and communities that I'm a part of. So those those are the 2 big things is, you know, my background is growing up, and that you know the communities that I'm part of today. They kind of, you know. Keep me moving. Keep me going.
+
+102
+00:18:10.040 --> 00:18:12.349
+Emily Corwin: Yeah, very cool. Thank you for that. So thinking through, we'll focus then on your social class background. If that's okay with you. So thinking through that, are there any types of sponsorship behaviors that you think might be most important for people who come from similar backgrounds as you? So this doesn't have to be about yourself. It can just be thinking through generally, or about the help that you provide to other people. Now.
+
+104
+00:18:36.478 --> 00:18:41.730
+Alfred: I you could tell me if I'm kind of going off in the wAlfredg wAlfredg direction here. One thing that I think about is is that when people come from the background that I came from, or or or similar they think that like getting an education and getting the job is like the magic bullet, and everything happens very, very quickly.
+
+106
+00:18:56.240 --> 00:19:20.750
+Alfred: And it doesn't like. And that's something that I've learned over time. And even now, like even people that are doing really really well in their career, you can still have financial struggles. You can still have all those different things. So that's 1 thing that like, at least when I associate with other people, and I'm helping to mentor and things like that, I'm giving them the friendly reminder. This is like, you know, probably undergrads coming out of Bentley. You're not going to run the company just because you got a degree.
+
+107
+00:19:21.120 --> 00:19:21.650
+Emily Corwin: Right.
+
+108
+00:19:21.650 --> 00:19:49.420
+Alfred: Right. And it's going to take a while, and you have to do all those different things. And it's not a not a get. Get rich, especially when I talk to like students who are like just coming into a university or coming into a company for the 1st time they come in and like they're very excited. They're very motivated, but they don't realize that the path is far longer and much more arduous. And there's lots of landmines, and like, you know. So I remember the same thing like I, you know, I thought that like, Hey, when I when I got in that 7, an 8 year period of time, you know. Like in my head, I'm like I should be running this place right and like I should be, you know, and I should be founding a company like all those other things. It's like, no, you have to take a little bit more judicious. Look at your path, and how you move things forward and it's probably because of the that that experience previously, and coming from, you know. X to y. So does that help.
+
+111
+00:20:13.440 --> 00:20:20.839
+Emily Corwin: No, I think that does help. I think it's really interesting. That kind of you know. One thing that we're interested in is sponsorship is something that potentially we don't know, but potentially might be more available to people who need it. Less like people might the people who might already know? Okay, there are steps. These are the steps that I follow might be the same people who are getting that sponsorship, while some people who maybe don't have family or parents who went down a similar path. They're the 1st ones doing it. They may not know those are the steps. If they're just told, go to college, everything will be fine. Right? So yeah, I think I think that's exactly a great, a great point. College is kind of the baseline, not the not the end goal. Right? So, yeah, I think that's right.
+
+114
+00:21:00.860 --> 00:21:14.029
+Alfred: And I would say the one thing that is interesting, and maybe this is an observation that I've had. Maybe this is not just. Sponsorship of mentorship is that sponsoring and mentoring people who, you believe are going to be successful is very easy sponsoring and mentoring people who, you believe are not going to be as successful or struggling is a harder lift for people to dive into. Because they worry that they're gonna fail to help that person succeed as well. It's like, listen! Do you want to do you wanna frost the cake, or do you want to start from scratch? And and so I think that that's a really interesting sort of pieces like, you know, if if given the opportunity to sponsor, and your only option is somebody who is absolutely struggling. Would you take that opportunity? I don't know. Everybody would do that right. And so at least in in my experience, is you have to make that extra effort to go and do that and kind of recognize that like this is a project. and those people really need it.
+
+123
+00:22:01.230 --> 00:22:03.299
+Emily Corwin: So, yeah. yeah, definitely. alright. Well, in why? Of our interest in understanding how people experience and understand sponsorship based on their various identities, including social class, gender, race, etc. Is there anything that I should have asked you that I didn't, or that you would like to share, that you haven't had the chance to yet.
+
+126
+00:22:27.310 --> 00:22:31.305
+Alfred: You know, the the one interesting piece is that there's sponsorship that feels like it's organizationally driven versus personally driven. And so I think that that's a good area to start, you know, potentially thinking about is like some people do it out of the kindness of their heart. Or maybe they have time to do it. Maybe they're not working anymore. And they're willing to take on these kind of individual. You know things because they run into somebody, and then they offer, you know, that sort of sort of experience. But a lot of organizations are pushing this sort of sponsorship down as part of their culture now.
+And like, so my experience is kind of an Ab test for that right? We don't have a formal sort of sponsorship or a mentoring program, you know, through the Undergrad or through the Alumni Association, we just we. We were kind of testing it in the company that I work in today. We have development programs and people are assigned to be onboarding mentors. They call them mentors. But you're really like signing up to like, be in lockstep with somebody for a period of time, so they call it mentorship. I look at it as more sponsorship, because that person knows that they're, you know I'm committed to that person for a set period of time could be 6 months could be 2 years could be something along those lines. But I think you're starting to see more of that organizational driven, especially in specific roles. Where, they're kind of nebulous, and they need people to to help them.
+Especially newer employees. These are mainly like so I'll give you an example. So I work for [a large consulting firm], and we have something called the Pvp program. It's a product development program. So we have product managers. Typically, they come out of like Mba programs, or they've moved from engineering or they move from business or something along those lines. And so you don't go to school for product management like there's no like product management classes at Bentley. We don't. We don't learn agile scrum, you know all those different things. We might hear about it a little bit, you know. You might touch a little bit of that in like a like a computer science class or something along those lines. But nobody graduates with a product management degree.
+
+
+138
+00:24:36.130 --> 00:24:36.750
+Emily Corwin: Right.
+
+139
+00:24:36.750 --> 00:24:49.459
+Alfred: So everything you do is learned on the fly, and you're kind of dealing with chaos. And you're managing stakeholders, and you're trying to drive to specific goals. Those people don't have that experience, especially the younger ones. And so or that I was a younger, less experienced folks. And so they need that level of guidance. So there's a formal program for that in the organization that is pushed out and so now, like, you know, they kind of said you, you're going to actually be mentoring these people like every every year. And so so that's like, for lack of a better term. Now it's flipped on the other side. They're like, Hey, are you interested in this? I'm like, absolutely, you know. Why wouldn't.
+
+141
+00:25:18.730 --> 00:25:19.060
+Emily Corwin: Yeah.
+
+142
+00:25:19.060 --> 00:25:20.109
+Alfred: Help a whole bunch of people. So. But it was organizationally driven versus like me, like seeking an individual who I'm like, Oh, I want to go help that person. So.
+
+146
+00:25:29.630 --> 00:25:30.310
+Emily Corwin: Sure, so kind of it since, if if you don't mind, I'm sure it wouldn't take more than 5 min. Can we talk a little bit about you acting as a sponsor, then for other individuals. Okay. So you mentioned from the organizational perspective? But I'd like to know also, have you personally sought out opportunities to sponsor other individuals? Or has it happened separate from your organization?
+
+148
+00:25:55.910 --> 00:26:22.079
+Alfred: Yeah, I've done it a couple of times. So I did it at the university level. Just you know, for my for my Alma Mater. There were some people that were struggling, finding jobs or figuring out what they wanted to do next in their career. And so, you know, I we did this like little alumni event down here. It was like a speed dating thing, basically. And we got to meet with students and just chat with them. And then there was a couple of them that I'm like, oh, well. You know, they're they're really struggling, but they have a lot of potential. I will go out of my way to reach out to them, and try to set up like a regular sort of session, to kind of help them in their their sort of careers. They were very much like me, like very early, like, you know, just graduating or something along those lines, and I feel like. I probably gave them the same experience that maybe I received from from my alum, which was like probably did not give them the answers, probably gave them more questions and a little bit of therapy but but that was one that I more actively sought out. Whereas today, like at at my current job. I didn't actively seek it out, but I actively volunteered when asked, like it was like, Oh, yeah, you don't. You don't have to ask, like, Yeah, absolutely sign a whole bunch of people up. I'm more than happy to happy to do that. So, does that help?
+
+154
+00:27:15.770 --> 00:27:27.020
+Emily Corwin: Yeah, definitely. And so in your current career, are you sort of, they know you're interested. So it's like, Okay, you're assigned Jonathan. And or do you kind of get? Some say so, and how those relationships are formed.
+
+156
+00:27:29.840 --> 00:27:41.289
+Alfred: Yeah, they just they tend just to assign them to me. I. So what what has happened is is that there are managers above me that are like, I'm going to pair this person up with you like they they they need to be alongside me. And I go. Okay, that's cool. So like they like, I'm like their go to person for like trying to help people get acclimated and understand what they're doing. And if they get blocked on something, or they're being challenged. And like cause, they don't know where. Their career, like the problem with product management, is very nebulous area. There's like 8 different hats you can wear on top of it, which is kind of crazy. So they're still trying to figure out what they want to be when they grow up while having to produce something while being a brand new employee to a company.
+You know, and they don't know what they're actually supposed to be delivering. So they they need. They need people. That kind of bounce, bounce ideas off of check in on them. Make sure they're being okay. You know, they're okay. I mean, I do a little bit of it like ad hoc, but like not like committed. It's more like the other stuff is like more mentorship.
+
+
+161
+00:28:30.720 --> 00:28:39.789
+Emily Corwin: Gotcha. And are there any specific outcomes that have already happened from your sponsoring of these individuals that you can speak to.
+
+162
+00:28:40.290 --> 00:28:47.469
+Alfred: Well, I mean, I think, that they are more effective faster in the organization, for sure. I think that they. I think, because the the whole idea of it is also new to them. They don't know how to function with it either. Sometimes. So like I have to go out of my way to like set up like like zoom coffees with them, to to be able to check in with them. So they're they're trying to figure out the relationship a little bit, too, which is kind of interesting, because I don't think that they're used to. I don't think most people are used to having a mentor or a sponsor.
+So it's an unusual thing for for them as well to kind of find their footing there to to do that. So I mean, the outcome is hopefully, they're they're effective faster, that they are communicating to other people more rapidly when they have challenges. If if I could be open and transparent with them, then hopefully, they recognize the rest of the organization. It's also open and transparent. I think the real key will be is like, okay, in 2 years or 3 years? Are they advancing? Are they continuing to reach out? Are they becoming somebody who can be a sponsor as well? You know, that's that's the optimal is like, if we can, we can turn into make more of them like me in that. That regard. That's a benefit for the entire organization. So it's been a little early on. I've only been with the org for 5 or 6 months, but the fact that they're already moving me into that area is kind of crazy, but but good. So.
+
+168
+00:30:03.370 --> 00:30:14.509
+Emily Corwin: Yeah, it's positive. So thinking about this will be my last question. But since you brought it up, I'm kind of interested to see if you've had this experience. Thinking about all the people that you've sponsored, whether organizationally driven or personally sought out, was there anyone that you found to be particularly easy to sponsor versus maybe someone you found to be a little bit more difficult to sponsor? And yeah, I guess I'll just leave it at that for a second.
+
+171
+00:30:33.580 --> 00:30:42.619
+Alfred: I would say nothing per se, but it's always interesting, like the personalities are. If you are coming in with a strong personality that you know everything, it's really hard to have a good sponsor-mentee relationship. Because you have to break down that wall first. It's like, you know, they're using it to check a box off versus "I need help."
+So those are always like the hardest interactions. And I'm not saying I had a particular like sponsor relationship or mentor relationship. But I just know personally, when I have those interactions, it's hard to give feedback to people that know everything.
+
+Right. And so, you know, for me, you know, when I was the one that was being sponsored, I was like, "Oh, this is how the universe is." And the guy's like, "No, actually, I'm in [a large organization 2]. That's not how this works. This is how this thing works." And it's like, "Oh." So you have to have—I think if you're going to be sponsored or you're sponsoring somebody—that willingness to like drop your guard and be prepared to be sponsored is really, really important and difficult for people.
+
+Sponsors are there to help you, but they don't have all the answers. You know, they could point you in the right direction. They can give you the tools, but if you're unwilling to take the tools or any of those things, then it's gonna be really difficult. It's gonna be an unhappy experience for everybody and anybody. At least, that's what I've observed.
+And I may have been one of those difficult people at one point in time in my career, right? So. But yeah, it's hard. I mean, that's kind of like—this is like the things that they teach us in like the MBA classes. It's like, you have to be open. You have to be transparent. You have to be communicative. It's like, if you want to become a leader and you want to become better, you actually have to learn to drop all those guards down earlier, right?
+
+
+183
+00:32:23.180 --> 00:32:35.360
+Emily Corwin: Yeah, for sure. Alright. Well, thank you so much. For taking time to talk to me today, if you don't mind, I'm gonna go ahead and stop the recording here. And then let me see. Yes.
+
