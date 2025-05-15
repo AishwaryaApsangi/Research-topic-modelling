@@ -44,13 +44,17 @@ def load_docs():
 # === Preprocessing ===
 @st.cache_data
 def preprocess(docs):
+    from nltk.tokenize import TreebankWordTokenizer
+    tokenizer = TreebankWordTokenizer()
+    nltk.download("wordnet", quiet=True)
+
     token_lists = []
     skipped = 0
 
     for i, doc in enumerate(docs):
         try:
             text = re.sub(r"\s+", " ", doc.lower())
-            tokens = nltk.word_tokenize(text)
+            tokens = tokenizer.tokenize(text)
             tokens = [lemmatizer.lemmatize(w) for w in tokens if w.isalpha() and w not in stop_words]
 
             if tokens:
