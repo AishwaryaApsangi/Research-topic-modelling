@@ -44,9 +44,6 @@ def load_docs():
 # === Preprocessing ===
 @st.cache_data
 def preprocess(docs):
-    nltk.download("punkt", quiet=True)
-    nltk.download("wordnet", quiet=True)
-
     token_lists = []
     skipped = 0
 
@@ -67,6 +64,7 @@ def preprocess(docs):
     
     st.info(f"✅ Preprocessing complete. {len(token_lists)} docs used, {skipped} skipped.")
     return token_lists
+
 
 # === Load + preprocess ===
 docs, filenames = load_docs()
