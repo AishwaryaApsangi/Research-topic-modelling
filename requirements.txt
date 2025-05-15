@@ -9,3 +9,5 @@ scikit-learn
 plotly
 pdfplumber
 python-docx
+seaborn
+

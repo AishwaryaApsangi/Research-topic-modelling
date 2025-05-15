@@ -1,7 +1,7 @@
+import seaborn as sns
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
 from gensim.models.phrases import Phrases, Phraser
 
 st.set_page_config(page_title="Topic Phrase Explorer", layout="wide")

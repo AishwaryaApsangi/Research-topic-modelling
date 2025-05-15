@@ -11,32 +11,26 @@ from gensim.models import LdaModel
 import pyLDAvis.gensim_models
 import streamlit.components.v1 as components
 
-# --- Fix for Streamlit Cloud: Ensure NLTK resources persist ---
-nltk_data_dir = os.path.join(os.path.expanduser("~"), "nltk_data")
-os.makedirs(nltk_data_dir, exist_ok=True)
-nltk.data.path.append(nltk_data_dir)
-
-nltk.download("punkt", download_dir=nltk_data_dir)
-nltk.download("stopwords", download_dir=nltk_data_dir)
-nltk.download("wordnet", download_dir=nltk_data_dir)
-
 # Page title
 st.title("📊 LDA Topic Word Clouds")
 
-# === File path to cleaned transcripts ===
-folder_path = "transcripts_cleaned"
-
 # === Setup stopwords and lemmatizer ===
-stop_words = set(stopwords.words("english")).union({
-    "like", "yeah", "okay", "just", "really", "actually", "thing", "gonna", "got", "well", "know", "think",
-    "don’t", "didn’t", "you’re", "i’m", "right", "um", "uh", "sort", "kind", "little", "maybe", "also", "could",
-    "amanda", "sargent", "bodhi", "annelise", "ben", "alfred", "corwin", "emily", "aarav"
-})
+@st.cache_data
+def setup_stopwords():
+    nltk.download("stopwords", quiet=True)
+    return set(stopwords.words("english")).union({
+        "like", "yeah", "okay", "just", "really", "actually", "thing", "gonna", "got", "well", "know", "think",
+        "don’t", "didn’t", "you’re", "i’m", "right", "um", "uh", "sort", "kind", "little", "maybe", "also", "could",
+        "amanda", "sargent", "bodhi", "annelise", "ben", "alfred", "corwin", "emily", "aarav"
+    })
+
+stop_words = setup_stopwords()
 lemmatizer = WordNetLemmatizer()
 
 # === Load transcripts ===
 @st.cache_data
 def load_docs():
+    folder_path = "transcripts_cleaned"
     docs, filenames = [], []
     for fname in os.listdir(folder_path):
         if fname.endswith(".txt"):
@@ -50,18 +44,40 @@ def load_docs():
 # === Preprocessing ===
 @st.cache_data
 def preprocess(docs):
+    from nltk.tokenize import TreebankWordTokenizer
+    tokenizer = TreebankWordTokenizer()
+    nltk.download("wordnet", quiet=True)
+
     token_lists = []
-    for doc in docs:
-        text = re.sub(r"\s+", " ", doc.lower())
-        tokens = nltk.word_tokenize(text)
-        tokens = [lemmatizer.lemmatize(w) for w in tokens if w.isalpha() and w not in stop_words]
-        token_lists.append(tokens)
+    skipped = 0
+
+    for i, doc in enumerate(docs):
+        try:
+            text = re.sub(r"\s+", " ", doc.lower())
+            tokens = tokenizer.tokenize(text)
+            tokens = [lemmatizer.lemmatize(w) for w in tokens if w.isalpha() and w not in stop_words]
+
+            if tokens:
+                token_lists.append(tokens)
+            else:
+                skipped += 1
+                st.warning(f"⚠️ Document {i+1} had no valid tokens and was skipped.")
+        except Exception as e:
+            skipped += 1
+            st.warning(f"❌ Tokenization failed for document {i+1}: {e}")
+    
+    st.info(f"✅ Preprocessing complete. {len(token_lists)} docs used, {skipped} skipped.")
     return token_lists
+
 
 # === Load + preprocess ===
 docs, filenames = load_docs()
 tokenized = preprocess(docs)
-st.success(f"✅ Loaded and cleaned {len(docs)} transcripts")
+
+# === Guard clause if nothing usable ===
+if not tokenized:
+    st.error("❌ No valid documents to process. Check transcript files and try again.")
+    st.stop()
 
 # === Create dictionary and corpus ===
 dictionary = corpora.Dictionary(tokenized)
