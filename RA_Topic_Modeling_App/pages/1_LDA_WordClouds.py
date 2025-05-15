@@ -11,15 +11,19 @@ from gensim.models import LdaModel
 import pyLDAvis.gensim_models
 import streamlit.components.v1 as components
 
-# === Download required NLTK resources ===
-nltk.download("punkt")
-nltk.download("stopwords")
-nltk.download("wordnet")
+# --- Fix for Streamlit Cloud: Ensure NLTK resources persist ---
+nltk_data_dir = os.path.join(os.path.expanduser("~"), "nltk_data")
+os.makedirs(nltk_data_dir, exist_ok=True)
+nltk.data.path.append(nltk_data_dir)
 
-# === Page title ===
+nltk.download("punkt", download_dir=nltk_data_dir)
+nltk.download("stopwords", download_dir=nltk_data_dir)
+nltk.download("wordnet", download_dir=nltk_data_dir)
+
+# Page title
 st.title("📊 LDA Topic Word Clouds")
 
-# === File path to cleaned transcripts (relative to repo root) ===
+# === File path to cleaned transcripts ===
 folder_path = "transcripts_cleaned"
 
 # === Setup stopwords and lemmatizer ===
@@ -89,6 +93,5 @@ st.subheader("📍 pyLDAvis Interactive Topic Map")
 with st.expander("Show pyLDAvis Panel"):
     vis_data = pyLDAvis.gensim_models.prepare(lda_model, corpus, dictionary)
     html = pyLDAvis.prepared_data_to_html(vis_data)
-    # Fix background to white for dark-themed Streamlit
     html = html.replace("background-color: #000;", "background-color: #fff;")
     components.html(html, height=800, scrolling=True)
