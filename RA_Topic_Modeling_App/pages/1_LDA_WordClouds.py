@@ -11,16 +11,16 @@ from gensim.models import LdaModel
 import pyLDAvis.gensim_models
 import streamlit.components.v1 as components
 
-# ✅ Download required NLTK resources (for Streamlit Cloud)
-nltk.download("punkt", quiet=True)
-nltk.download("stopwords", quiet=True)
-nltk.download("wordnet", quiet=True)
+# === Download required NLTK resources ===
+nltk.download("punkt")
+nltk.download("stopwords")
+nltk.download("wordnet")
 
-# Page title
+# === Page title ===
 st.title("📊 LDA Topic Word Clouds")
 
-# === File path to cleaned transcripts ===
-folder_path = "transcripts_cleaned"  # Must be in the root of the GitHub repo
+# === File path to cleaned transcripts (relative to repo root) ===
+folder_path = "transcripts_cleaned"
 
 # === Setup stopwords and lemmatizer ===
 stop_words = set(stopwords.words("english")).union({
@@ -46,10 +46,6 @@ def load_docs():
 # === Preprocessing ===
 @st.cache_data
 def preprocess(docs):
-    # Force download inside cache context to avoid LookupError on Streamlit Cloud
-    import nltk
-    nltk.download("punkt", quiet=True)
-    
     token_lists = []
     for doc in docs:
         text = re.sub(r"\s+", " ", doc.lower())
@@ -93,5 +89,6 @@ st.subheader("📍 pyLDAvis Interactive Topic Map")
 with st.expander("Show pyLDAvis Panel"):
     vis_data = pyLDAvis.gensim_models.prepare(lda_model, corpus, dictionary)
     html = pyLDAvis.prepared_data_to_html(vis_data)
+    # Fix background to white for dark-themed Streamlit
     html = html.replace("background-color: #000;", "background-color: #fff;")
     components.html(html, height=800, scrolling=True)
