@@ -1,0 +1,11 @@
+streamlit
+nltk
+gensim
+pyLDAvis
+matplotlib
+wordcloud
+pandas
+scikit-learn
+plotly
+pdfplumber
+python-docx
