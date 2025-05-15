@@ -18,12 +18,11 @@ st.title("📊 LDA Topic Word Clouds")
 @st.cache_data
 def setup_stopwords():
     nltk.download("stopwords", quiet=True)
-    custom_stopwords = set(stopwords.words("english")).union({
+    return set(stopwords.words("english")).union({
         "like", "yeah", "okay", "just", "really", "actually", "thing", "gonna", "got", "well", "know", "think",
         "don’t", "didn’t", "you’re", "i’m", "right", "um", "uh", "sort", "kind", "little", "maybe", "also", "could",
         "amanda", "sargent", "bodhi", "annelise", "ben", "alfred", "corwin", "emily", "aarav"
     })
-    return custom_stopwords
 
 stop_words = setup_stopwords()
 lemmatizer = WordNetLemmatizer()
@@ -47,23 +46,36 @@ def load_docs():
 def preprocess(docs):
     nltk.download("punkt", quiet=True)
     nltk.download("wordnet", quiet=True)
-    
+
     token_lists = []
-    for doc in docs:
+    skipped = 0
+
+    for i, doc in enumerate(docs):
         try:
             text = re.sub(r"\s+", " ", doc.lower())
             tokens = nltk.word_tokenize(text)
             tokens = [lemmatizer.lemmatize(w) for w in tokens if w.isalpha() and w not in stop_words]
-            token_lists.append(tokens)
+
+            if tokens:
+                token_lists.append(tokens)
+            else:
+                skipped += 1
+                st.warning(f"⚠️ Document {i+1} had no valid tokens and was skipped.")
         except Exception as e:
-            st.error(f"Tokenization failed for one document: {e}")
-            token_lists.append([])
+            skipped += 1
+            st.warning(f"❌ Tokenization failed for document {i+1}: {e}")
+    
+    st.info(f"✅ Preprocessing complete. {len(token_lists)} docs used, {skipped} skipped.")
     return token_lists
 
 # === Load + preprocess ===
 docs, filenames = load_docs()
 tokenized = preprocess(docs)
-st.success(f"✅ Loaded and cleaned {len(docs)} transcripts")
+
+# === Guard clause if nothing usable ===
+if not tokenized:
+    st.error("❌ No valid documents to process. Check transcript files and try again.")
+    st.stop()
 
 # === Create dictionary and corpus ===
 dictionary = corpora.Dictionary(tokenized)
