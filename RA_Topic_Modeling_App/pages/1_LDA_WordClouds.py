@@ -12,9 +12,10 @@ import pyLDAvis.gensim_models
 import streamlit.components.v1 as components
 
 # Download required NLTK resources
-nltk.download("punkt")
-nltk.download("stopwords")
-nltk.download("wordnet")
+# Download required NLTK resources (quiet mode avoids errors on Streamlit Cloud)
+nltk.download("punkt", quiet=True)
+nltk.download("stopwords", quiet=True)
+nltk.download("wordnet", quiet=True)
 
 # Page title
 st.title("📊 LDA Topic Word Clouds")
