@@ -13,7 +13,7 @@ nltk.download("vader_lexicon")
 sia = SentimentIntensityAnalyzer()
 
 # File path
-folder_path = r"C:\Users\aishwarya\OneDrive - Bentley University\Desktop\Amanda - RA Data cleaning work\transcripts_cleaned"
+folder_path = "transcripts_cleaned"
 
 # Streamlit UI
 st.title("🧠 Quote-Level Sentiment Explorer")
