@@ -46,6 +46,10 @@ def load_docs():
 # === Preprocessing ===
 @st.cache_data
 def preprocess(docs):
+    # Force download inside cache context to avoid LookupError on Streamlit Cloud
+    import nltk
+    nltk.download("punkt", quiet=True)
+    
     token_lists = []
     for doc in docs:
         text = re.sub(r"\s+", " ", doc.lower())
