@@ -20,7 +20,7 @@ nltk.download("wordnet")
 st.title("📊 LDA Topic Word Clouds")
 
 # === File path to cleaned transcripts ===
-folder_path = r"C:\\Users\\aishwarya\\OneDrive - Bentley University\\Desktop\\Amanda - RA Data cleaning work\\transcripts_cleaned"
+folder_path = r"folder_path = "transcripts_cleaned"
 
 # === Setup stopwords and lemmatizer ===
 stop_words = set(stopwords.words("english")).union({
